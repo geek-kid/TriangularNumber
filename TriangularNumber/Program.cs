@@ -1,4 +1,5 @@
-﻿int startNumber, toNumber;
+//Arya Taheri
+int startNumber, toNumber;
  
 Console.WriteLine("First Number: ");
 try
