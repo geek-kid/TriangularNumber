@@ -29,6 +29,7 @@ if (startNumber > toNumber)
 Console.WriteLine("--------------------------------------------");
 Calc(startNumber, toNumber);
 Console.WriteLine("--------------------------------------------");
+Console.ReadKey();
 
 
 void Calc(int startNum, int toNum)
